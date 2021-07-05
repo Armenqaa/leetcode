@@ -169,3 +169,7 @@
 
 #38 SymmetricTree (https://leetcode.com/problems/symmetric-tree/):
 Дан корень двоичного дерева, проверьте, является ли он зеркалом самого себя (т.е. симметричным относительно своего центра).
+
+
+#39 ValidateBinarySearchTree(https://leetcode.com/problems/validate-binary-search-tree/solution/):
+Дан корень двоичного дерева, определите, является ли оно допустимым двоичным деревом поиска (BST).
