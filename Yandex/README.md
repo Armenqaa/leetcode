@@ -1,4 +1,4 @@
-# leetcode
+# Yandex
 
 
 #1 AddTwoNumbers(https://leetcode.com/problems/add-two-numbers/): 
