@@ -22,3 +22,8 @@
 
 #5 BackspaceStringCompare(https://leetcode.com/problems/backspace-string-compare/): 
 Даны две строки s и t, верните true, если они равны, когда обе введены в пустые текстовые редакторы, где '#' означает удаление предыдущего символа(Backspace).
+
+
+#6 FindAllDuplicatesInAnArray(https://leetcode.com/problems/find-all-duplicates-in-an-array/):
+Дан целочисленный массив nums длины n, где все целые числа nums находятся в диапазоне [1, n], и каждое целое число встречается один или два раза, 
+верните массив всех целых чисел, который встречается дважды.
