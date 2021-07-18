@@ -27,3 +27,21 @@
 #6 FindAllDuplicatesInAnArray(https://leetcode.com/problems/find-all-duplicates-in-an-array/):
 Дан целочисленный массив nums длины n, где все целые числа nums находятся в диапазоне [1, n], и каждое целое число встречается один или два раза, 
 верните массив всех целых чисел, который встречается дважды.
+
+
+#7 FindAllNumbersDisappearedInAnArray(https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/):
+Дан массив nums из n целых чисел, где nums[i] находится в диапазоне [1, n], 
+вернуть массив всех целых чисел в диапазоне [1, n], которые не входят в nums.
+
+
+#8 RemoveDuplicatesFromSortedList(https://leetcode.com/problems/remove-duplicates-from-sorted-list/):
+Дан заголовок отсортированного связанного списка, удалите все дубликаты, чтобы каждый элемент отображался только один раз.
+Вернуть также отсортированный связанный список.
+
+
+#9 FindSmallestLetterGreaterThanTarget(https://leetcode.com/problems/find-smallest-letter-greater-than-target/):
+Дан массив символов, которые отсортированы в неубывающем порядке, и таргет символ, вернуть наименьший символ в массиве, который больше таргета.
+
+
+#10 AverageOfLevelsInBinaryTree(https://leetcode.com/problems/average-of-levels-in-binary-tree/):
+Дан корень двоичного дерева, вернуть среднее значение узлов на каждом уровне в виде массива. Будут приняты ответы в пределах 10-5 от фактического ответа.
